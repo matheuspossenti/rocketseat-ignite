@@ -16,7 +16,7 @@ const posts = [
     author: {
       avatarUrl: "https://github.com/matheuspossenti.png",
       name: "Matheus Possenti",
-      role: "Web Developer",
+      role: "CTO @ HubSys",
     },
     content: [
       { type: "paragraph", content: "Fala galeraa 👋" },
@@ -34,7 +34,7 @@ const posts = [
     author: {
       avatarUrl: "https://github.com/vslongo.png",
       name: "Vinicius Slongo",
-      role: "Web Developer",
+      role: "CEO @ HubSys",
     },
     content: [
       { type: "paragraph", content: "Fala galeraa 👋" },
