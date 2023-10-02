@@ -1,0 +1,25 @@
+.taskHeaderWrapper > header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.createdTask {
+  font-size: 0.875rem;
+  color: var(--blue);
+  font-weight: bold;
+}
+
+.completedTask {
+  font-size: 0.875rem;
+  color: var(--purple);
+  font-weight: bold;
+}
+
+.taskCounter {
+  background: var(--gray-400);
+  padding: 0.125rem 0.5rem;
+  color: var(--gray-200);
+  border-radius: 62.4px;
+
+}

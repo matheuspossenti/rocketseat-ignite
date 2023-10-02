@@ -1,0 +1,19 @@
+.noTaskWrapper {
+  display: flex;
+  padding: 4rem 1.5rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5rem;
+  border-radius: 0.5rem;
+  border-top: 1px solid var(--gray-400);
+}
+
+.imgClipboard {
+  margin-bottom: 1rem;
+  width: 100px;
+}
+
+.titleNoTask {
+  margin-bottom: 0.25rem;
+}
